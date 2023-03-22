@@ -1,13 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"files.associations": {
-			"ostream": "cpp",
-			"iostream": "cpp"
-		}
-	}
+    "settings": {
+        "files.associations": {
+            "xstring": "cpp"
+        }
+    }
 }

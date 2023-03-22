@@ -3,9 +3,12 @@
         {
             "name": "windows-gcc-x64",
             "includePath": [
-                "C:/Users/Michael Ladderbush/Desktop/CS-210/clock_project"
+                ".",
+                "${workspaceFolder}/**",
+                "clock.h",
+                "twelve_clock.c++"
             ],
-            "compilerPath": "gcc",
+            "compilerPath": "C:/msys64/mingw64/bin/gcc.exe",
             "cStandard": "${default}",
             "cppStandard": "${default}",
             "intelliSenseMode": "windows-gcc-x64",
